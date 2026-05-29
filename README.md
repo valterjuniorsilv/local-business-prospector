@@ -1,5 +1,7 @@
 # Local Business Prospector
 
+[![CI](https://github.com/valterjuniorsilv/local-business-prospector/actions/workflows/ci.yml/badge.svg)](https://github.com/valterjuniorsilv/local-business-prospector/actions) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Release](https://img.shields.io/github/v/release/valterjuniorsilv/local-business-prospector)](https://github.com/valterjuniorsilv/local-business-prospector/releases)
+
 > Pipeline pra prospecção B2B de PMEs locais (clínicas, salões, lojas físicas). Vai do **scraping do Google Maps** ao **lead qualificado com IA**, passando por enriquecimento de email, Instagram e Meta Ads Library.
 >
 > Sanitizado e extraído de uma operação real rodando em produção há ~12 meses — onde nasceu como `dentist-prospector`, depois virou multi-vertical (odonto, estética, nail, barber, imobiliária).
