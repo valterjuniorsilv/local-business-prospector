@@ -1,0 +1,26 @@
+.DS_Store
+*.swp
+*.swo
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+.pytest_cache/
+
+# Env
+.env
+.env.*
+!.env.example
+
+# Local
+*.log
+debug_*.png
+ig_browser_profile/
+debug_shots/
+local/
+tmp/
