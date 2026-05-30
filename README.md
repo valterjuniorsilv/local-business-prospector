@@ -197,7 +197,7 @@ MIT — see [LICENSE](./LICENSE).
 Companion repos:
 
 - [claude-skills](https://github.com/valterjuniorsilv/claude-skills) — Claude Code skills
-- [nodus-agents](https://github.com/valterjuniorsilv/nodus-agents) — agency multi-agent setup
+- [agency-as-agents](https://github.com/valterjuniorsilv/agency-as-agents) — agency multi-agent setup
 - [claude-whatsapp-template](https://github.com/valterjuniorsilv/claude-whatsapp-template) — bot WhatsApp + Claude
 - [antigravity-lab](https://github.com/valterjuniorsilv/antigravity-lab) — Go backend reference
 
